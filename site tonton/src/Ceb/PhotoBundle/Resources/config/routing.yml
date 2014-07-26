@@ -1,0 +1,3 @@
+ceb_photo_homepage:
+    pattern:  /
+    defaults: { _controller: CebPhotoBundle:Default:index }
